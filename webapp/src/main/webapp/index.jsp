@@ -8,13 +8,13 @@
 
       <div class="col">
         <a href="#" class="fb btn">
-          <i class="fa fa-facebook fa-fw"></i> Login with FB Mark
+          <i class="fa fa-facebook fa-fw"></i> Login with FB Mark ZK
         </a>
         <a href="#" class="twitter btn">
-          <i class="fa fa-twitter fa-fw"></i> Login with Twi-twi Elom
+          <i class="fa fa-twitter fa-fw"></i> Login with Twi-twi Elon Muuuuuusk
         </a>
         <a href="#" class="google btn">
-          <i class="fa fa-google fa-fw"></i> Login with Google!!
+          <i class="fa fa-google fa-fw"></i> Login with Google!! Pichai
         </a>
       </div>
 
