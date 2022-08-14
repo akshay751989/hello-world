@@ -14,7 +14,7 @@
           <i class="fa fa-twitter fa-fw"></i> Login with Twi-twi
         </a>
         <a href="#" class="google btn">
-          <i class="fa fa-google fa-fw"></i> Login with Google guru
+          <i class="fa fa-google fa-fw"></i> Login with Google!!
         </a>
       </div>
 
