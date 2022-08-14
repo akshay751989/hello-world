@@ -11,7 +11,7 @@
           <i class="fa fa-facebook fa-fw"></i> Login with FB
         </a>
         <a href="#" class="twitter btn">
-          <i class="fa fa-twitter fa-fw"></i> Login with Twi-twi
+          <i class="fa fa-twitter fa-fw"></i> Login with Twi-twi Elom
         </a>
         <a href="#" class="google btn">
           <i class="fa fa-google fa-fw"></i> Login with Google!!
